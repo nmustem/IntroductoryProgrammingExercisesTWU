@@ -1,7 +1,5 @@
 package com.thoughtworks.exercices;
 
-import org.omg.CORBA.INTERNAL;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
